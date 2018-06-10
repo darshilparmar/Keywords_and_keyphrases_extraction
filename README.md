@@ -77,7 +77,7 @@ Ranking keyphrases based on their calculated scores. Displaying top 'keywords_nu
 <img src="https://github.com/chanduparmar/Keywords_and_keyphrases_extraction/blob/master/Score%20and%20Keyword.png" alt="Keyword and Score">
 
 ## Keyphrases and Score
-<img src="https://github.com/chanduparmar/Keywords_and_keyphrases_extraction/blob/master/keyphrases_score.JPGhttps://github.com/chanduparmar/Keywords_and_keyphrases_extraction/blob/master/Score%20and%20Keyword.png" alt="Keyphrases and Score">
+<img src="https://github.com/chanduparmar/Keywords_and_keyphrases_extraction/blob/master/keyphrases_score.JPG" alt="Keyphrases and Score">
 
 
 ## References:
